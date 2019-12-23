@@ -1,0 +1,4 @@
+.ccls-cache/*
+obj/*
+game
+.vscode/*
